@@ -1,0 +1,15 @@
+﻿  Viewer.cpp
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Post.h(85,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(67,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(111,52): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(113,59): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(241,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(247,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(249,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(310,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(316,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(318,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(391,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(393,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\月月穹\OneDrive\文件\project3\Project1\Project1\Viewer.cpp(397,20): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> C:\Users\月月穹\OneDrive\文件\project3\Project1\Debug\Project1.exe

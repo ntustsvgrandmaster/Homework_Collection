@@ -1,0 +1,13 @@
+tamashi game (mari life game) 1st
+ninjindomo
+The first episode guest is 'fire maimoto fire' !
+*************************contentend*********************************
+7
+0 1 guestA                                      fire maimoto fire
+2 1 guestB                                      fire maimoto fire
+3 1 guestC                                      fire maimoto fire
+4 1 guestD                                      fire maimoto fire
+5 1 guestE                                      fire maimoto fire
+6 1 guestF                                      fire maimoto fire
+7 1 guestG                                      The man of fire.
+-99999

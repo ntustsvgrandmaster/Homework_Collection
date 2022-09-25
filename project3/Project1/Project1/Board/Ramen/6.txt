@@ -1,0 +1,13 @@
+I'm the titile1.
+Author1
+today is monday, I want to eat apple!
+By the way, orange is my favorite food, too.
+I don't like banana. 
+Does anyone like it?
+*************************contentend*********************************
+1
+0 0 guestA                                      I like banana! U are strange...
+1 1 guestB                                      I don't like banana!!!!!
+2 0 guestC                                      I like banana!!!!!!!!!!!!!!!!!!!!!!!!!
+3 0 guestD                                      WHY YOU POST THIS IN RAMEN BOARD TOO? AND EVERY ONE...
+-99999

@@ -1,0 +1,17 @@
+Suzuya Aki new cover
+Aki_neko
+God
+*************************contentend*********************************
+10
+0 1 guestA                                      I love aki kun!
+1 1 guestB                                      aki kun sushi.
+2 1 guestC                                      aki kun sushi.
+3 1 guestD                                      aki kun sushi.
+4 1 guestE                                      aki kun sushi.
+5 1 guestF                                      aki kun sushi.
+6 1 guestG                                      aki kun sushi.
+7 1 guestH                                      aki kun sushi.
+8 1 guestI                                      aki kun sushi.
+9 1 AkiNeko                                      boku mo minna dai~suki dayo!
+0 -1 admin              guys , why do you have such many blanks?
+-99999

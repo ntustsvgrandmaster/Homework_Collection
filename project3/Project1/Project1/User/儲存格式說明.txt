@@ -1,0 +1,21 @@
+all_users.txt: 
+
+帳戶類型 (A = admin, M = member)、帳號、密碼。
+
+
+其他txt:
+
+p幣數量
+boardA & 貼文ID
+boardB & 貼文ID
+...
+boardN & 貼文ID (←看要用ID排序還是board吧)
+/********myPostEnd*******/
+mail對象A  
+mail標題
+訊息內容
+/*EndOfMail*/
+mail對象B  
+mail標題
+訊息內容
+/*EndOfMail*/
