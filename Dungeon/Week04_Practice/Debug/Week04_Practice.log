@@ -1,0 +1,23 @@
+﻿  Source.cpp
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Item.h(16,1): warning C4305: '引數': 從 'int' 轉換為 'const _Elem'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Elem=char
+          ]
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Item.h(16,17): warning C4309: '引數': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Hero.h(124,20): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(57,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(84,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(97,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(146,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(192,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(238,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(105,9): warning C4101: 'ch': 未參考的區域變數
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(813,24): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\GameBoard.h(815,25): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Source.cpp(165,22): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Source.cpp(357,20): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Source.cpp(362,20): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Source.cpp(372,20): warning C4018: '<': signed/unsigned 不相符
+D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Week04_Practice\Source.cpp(646,20): warning C4018: '<': signed/unsigned 不相符
+  Week04_Practice.vcxproj -> D:\homework\物件導向程式設計\2021\地宮\final\Week10_Framework\Debug\Week10_Framework.exe

@@ -1,0 +1,10 @@
+第一行 : board大小
+第二行 : 除了四邊牆壁的gWall數量
+第三行 : gWalls座標
+第四行 : hero座標
+第五行 : creature數量
+第六行 : creatures類型、座標
+第七行 : item數量
+第八行 : item類型、座標
+第九行 : stair數量
+第十行以後 : stairs座標、stair通往的地方
