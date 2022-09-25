@@ -1,0 +1,42 @@
+C:\Users\劉奕秀\OneDrive\桌面\Chess\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2)\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2)\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2)\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製 - 複製\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製 - 複製\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess - 複製 (2) - 複製 - 複製 - 複製 - 複製\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 升階ok\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 升階ok\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 升階ok\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 現在\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 現在\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 現在\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+D:\homework\物件導向程式設計\2021\project\Chess- 回放\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+D:\homework\物件導向程式設計\2021\project\Chess- 回放\Chess- 回放\Chess\Debug\Chess.Form1.resources
+D:\homework\物件導向程式設計\2021\project\Chess- 回放\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放\Chess- 回放\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放修改一點bug\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放修改一點bug\Chess- 回放\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess- 回放修改一點bug\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+C:\Users\劉奕秀\OneDrive\桌面\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.Form1.resources
+C:\Users\劉奕秀\OneDrive\桌面\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+D:\homework\物件導向程式設計\2021\project\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+D:\homework\物件導向程式設計\2021\project\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.Form1.resources
+D:\homework\物件導向程式設計\2021\project\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+D:\homework\物件導向程式設計\2021\project\Project2\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxprojAssemblyReference.cache
+D:\homework\物件導向程式設計\2021\project\Project2\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.Form1.resources
+D:\homework\物件導向程式設計\2021\project\Project2\Chess- FINAL版\Chess- 回放\Chess\Debug\Chess.vcxproj.GenerateResource.cache
